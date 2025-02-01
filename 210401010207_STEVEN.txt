@@ -1,0 +1,8 @@
+NIK: 210401010207
+Nama: STEVEN
+Tempat/Tgl Lahir: MEDAN/01-01-1990
+Jenis Kelamin: Laki-laki
+Telepon: 081234567890
+Status: Belum Menikah
+Alamat 1: MEDAN
+Alamat 2: SUMATERA UTARA
