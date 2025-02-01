@@ -3,10 +3,10 @@
 ## Deskripsi
 Tugas 2 - Pemrograman Berorientasi Objek
 
-## Nama     : Steven
-## NIM      : 210401010207
-## Kelas    : IF-501
-## Dosen    : Catur Nugroho, S.Kom., M.Kom.
+1. Nama     : Steven
+2. NIM      : 210401010207
+3. Kelas    : IF-501
+4. Dosen    : Catur Nugroho, S.Kom., M.Kom.
 
-## PJJ INFORMATIKA
-## UNIVERSITAS SIBER ASIA (UNSIA)
+#
+## PJJ INFORMATIKA - UNIVERSITAS SIBER ASIA (UNSIA)
